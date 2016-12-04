@@ -1,0 +1,48 @@
+Last login: Sun Dec  4 10:24:46 on ttys000
+You have mail.
+Grahams-MBP:~ grahamhardy$ vi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ng logs\
+npm-debug.log*\
+\
+# project dependencies\
+node_modules\
+\
+# OSX folder attributes\
+.DS_Store\
+\
+#temporary files\
+*.tmp\
+*~
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
